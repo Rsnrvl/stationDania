@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"affichage"},{"l":"All Packages","u":"allpackages-index.html"},{"l":"bean"},{"l":"historique"},{"l":"menu"},{"l":"modules"},{"l":"user"},{"l":"utilisateur"},{"l":"utilitaire"}];updateSearchResults();
